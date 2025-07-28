@@ -10,7 +10,6 @@ This GitHub is a space for my academic projects, experiments, and eventually, my
 
 ---
 
-- 🌍  I'm based in Bulacan  
 - 🧠  I'm currently learning .NET Framework  
 - 🤝  I'm open to collaborating on projects  
 
